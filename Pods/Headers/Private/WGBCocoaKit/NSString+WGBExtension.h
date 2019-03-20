@@ -1,0 +1,1 @@
+../../../WGBCocoaKit/WGBCocoaKit/Foundation/NSString/NSString+WGBExtension.h
